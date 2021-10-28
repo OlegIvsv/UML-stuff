@@ -12,7 +12,6 @@ namespace pract1
         static void Main(string[] args)
         {
            
-
             Console.Read();
         }
     }  
